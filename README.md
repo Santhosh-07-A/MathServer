@@ -123,13 +123,13 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('math/', views.calculate_power, name='calculate_power'),
 ]
-
+```
 
 ## SERVER SIDE PROCESSING:
-Screenshot (21).png
+
 
 ## HOMEPAGE:
 
-Screenshot (23).png
+
 ## RESULT:
 The program for performing server side processing is completed successfully.
