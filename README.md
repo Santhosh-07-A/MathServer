@@ -127,8 +127,10 @@ urlpatterns = [
 
 ## SERVER SIDE PROCESSING:
 
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/ff90a1ca-fee3-4d40-90c2-2f13115747a6" />
 
 ## HOMEPAGE:
+<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/f925d675-cac7-4bc7-8618-1243c359109e" />
 
 
 ## RESULT:
